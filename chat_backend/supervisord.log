@@ -1,0 +1,227 @@
+2022-08-22 03:33:24,869 INFO supervisord started with pid 1
+2022-08-22 03:33:25,872 INFO spawned: 'app_worker_00' with pid 7
+2022-08-22 03:33:25,873 INFO spawned: 'php-fpm' with pid 8
+2022-08-22 03:33:26,939 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:26,939 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:26,939 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:27,942 INFO spawned: 'app_worker_00' with pid 11
+2022-08-22 03:33:28,975 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:28,975 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:29,978 INFO spawned: 'app_worker_00' with pid 12
+2022-08-22 03:33:31,008 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:31,008 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:32,010 INFO spawned: 'app_worker_00' with pid 13
+2022-08-22 03:33:33,042 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:33,042 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:33,436 INFO spawned: 'app_worker_00' with pid 14
+2022-08-22 03:33:34,274 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:35,277 INFO spawned: 'app_worker_00' with pid 15
+2022-08-22 03:33:36,323 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:36,323 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:37,325 INFO spawned: 'app_worker_00' with pid 16
+2022-08-22 03:33:38,357 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:38,357 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:39,360 INFO spawned: 'app_worker_00' with pid 17
+2022-08-22 03:33:40,394 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:40,394 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:41,397 INFO spawned: 'app_worker_00' with pid 18
+2022-08-22 03:33:42,427 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:42,428 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:43,430 INFO spawned: 'app_worker_00' with pid 19
+2022-08-22 03:33:44,460 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:44,460 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:45,462 INFO spawned: 'app_worker_00' with pid 20
+2022-08-22 03:33:46,498 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:46,498 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:47,501 INFO spawned: 'app_worker_00' with pid 21
+2022-08-22 03:33:48,536 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:48,536 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:49,538 INFO spawned: 'app_worker_00' with pid 22
+2022-08-22 03:33:50,568 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:50,568 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:51,571 INFO spawned: 'app_worker_00' with pid 23
+2022-08-22 03:33:52,610 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:52,610 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:53,613 INFO spawned: 'app_worker_00' with pid 24
+2022-08-22 03:33:54,648 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:54,648 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:55,650 INFO spawned: 'app_worker_00' with pid 25
+2022-08-22 03:33:56,683 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:56,683 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:57,686 INFO spawned: 'app_worker_00' with pid 26
+2022-08-22 03:33:58,723 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:33:58,723 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:33:59,727 INFO spawned: 'app_worker_00' with pid 27
+2022-08-22 03:34:00,762 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:00,762 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:01,767 INFO spawned: 'app_worker_00' with pid 28
+2022-08-22 03:34:02,802 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:02,802 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:03,807 INFO spawned: 'app_worker_00' with pid 29
+2022-08-22 03:34:04,853 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:04,853 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:05,857 INFO spawned: 'app_worker_00' with pid 30
+2022-08-22 03:34:06,892 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:06,893 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:07,898 INFO spawned: 'app_worker_00' with pid 31
+2022-08-22 03:34:08,936 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:08,936 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:09,941 INFO spawned: 'app_worker_00' with pid 32
+2022-08-22 03:34:10,977 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:10,977 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:11,981 INFO spawned: 'app_worker_00' with pid 33
+2022-08-22 03:34:13,020 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:13,020 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:14,025 INFO spawned: 'app_worker_00' with pid 34
+2022-08-22 03:34:15,062 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:15,062 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:16,065 INFO spawned: 'app_worker_00' with pid 35
+2022-08-22 03:34:17,100 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:17,100 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:18,106 INFO spawned: 'app_worker_00' with pid 36
+2022-08-22 03:34:19,142 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:19,142 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:20,145 INFO spawned: 'app_worker_00' with pid 37
+2022-08-22 03:34:21,175 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:21,175 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:22,179 INFO spawned: 'app_worker_00' with pid 38
+2022-08-22 03:34:23,216 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:23,216 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:24,219 INFO spawned: 'app_worker_00' with pid 39
+2022-08-22 03:34:25,255 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:25,255 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:26,258 INFO spawned: 'app_worker_00' with pid 40
+2022-08-22 03:34:27,292 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:27,292 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:28,297 INFO spawned: 'app_worker_00' with pid 41
+2022-08-22 03:34:29,334 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:29,335 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:30,337 INFO spawned: 'app_worker_00' with pid 42
+2022-08-22 03:34:31,376 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:31,376 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:32,379 INFO spawned: 'app_worker_00' with pid 43
+2022-08-22 03:34:33,410 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:33,410 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:34,412 INFO spawned: 'app_worker_00' with pid 44
+2022-08-22 03:34:35,444 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:35,444 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:36,447 INFO spawned: 'app_worker_00' with pid 45
+2022-08-22 03:34:37,477 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:37,478 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:38,482 INFO spawned: 'app_worker_00' with pid 46
+2022-08-22 03:34:39,516 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:39,516 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:40,519 INFO spawned: 'app_worker_00' with pid 47
+2022-08-22 03:34:41,555 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:41,555 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:42,557 INFO spawned: 'app_worker_00' with pid 66
+2022-08-22 03:34:43,590 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:43,591 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:43,591 INFO reaped unknown pid 67 (exit status 0)
+2022-08-22 03:34:44,595 INFO spawned: 'app_worker_00' with pid 69
+2022-08-22 03:34:45,635 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:45,635 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:46,640 INFO spawned: 'app_worker_00' with pid 70
+2022-08-22 03:34:47,675 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:47,675 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:48,679 INFO spawned: 'app_worker_00' with pid 71
+2022-08-22 03:34:49,714 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:49,714 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:50,718 INFO spawned: 'app_worker_00' with pid 72
+2022-08-22 03:34:51,759 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:51,760 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:52,763 INFO spawned: 'app_worker_00' with pid 73
+2022-08-22 03:34:53,799 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:53,800 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:54,805 INFO spawned: 'app_worker_00' with pid 74
+2022-08-22 03:34:55,840 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:55,840 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:56,844 INFO spawned: 'app_worker_00' with pid 75
+2022-08-22 03:34:57,881 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:57,881 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:34:58,884 INFO spawned: 'app_worker_00' with pid 76
+2022-08-22 03:34:59,919 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:34:59,919 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:00,923 INFO spawned: 'app_worker_00' with pid 77
+2022-08-22 03:35:01,967 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:01,967 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:02,971 INFO spawned: 'app_worker_00' with pid 78
+2022-08-22 03:35:04,008 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:04,008 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:05,011 INFO spawned: 'app_worker_00' with pid 79
+2022-08-22 03:35:06,043 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:06,044 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:07,046 INFO spawned: 'app_worker_00' with pid 80
+2022-08-22 03:35:08,085 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:08,085 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:09,088 INFO spawned: 'app_worker_00' with pid 81
+2022-08-22 03:35:10,119 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:10,119 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:11,124 INFO spawned: 'app_worker_00' with pid 82
+2022-08-22 03:35:12,156 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:12,156 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:13,159 INFO spawned: 'app_worker_00' with pid 83
+2022-08-22 03:35:14,194 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:14,194 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:15,199 INFO spawned: 'app_worker_00' with pid 84
+2022-08-22 03:35:16,235 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:16,236 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:17,240 INFO spawned: 'app_worker_00' with pid 85
+2022-08-22 03:35:18,276 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:18,276 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:19,280 INFO spawned: 'app_worker_00' with pid 106
+2022-08-22 03:35:19,280 INFO reaped unknown pid 104 (exit status 0)
+2022-08-22 03:35:20,313 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:20,314 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:21,318 INFO spawned: 'app_worker_00' with pid 107
+2022-08-22 03:35:22,355 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:22,355 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:23,360 INFO spawned: 'app_worker_00' with pid 108
+2022-08-22 03:35:24,396 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:24,396 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:25,400 INFO spawned: 'app_worker_00' with pid 109
+2022-08-22 03:35:26,436 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:26,436 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:27,440 INFO spawned: 'app_worker_00' with pid 110
+2022-08-22 03:35:28,476 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:28,476 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:29,481 INFO spawned: 'app_worker_00' with pid 111
+2022-08-22 03:35:30,516 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:30,516 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:31,518 INFO spawned: 'app_worker_00' with pid 112
+2022-08-22 03:35:32,561 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:32,562 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:33,566 INFO spawned: 'app_worker_00' with pid 113
+2022-08-22 03:35:34,608 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:34,608 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:35,617 INFO spawned: 'app_worker_00' with pid 114
+2022-08-22 03:35:36,658 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:36,658 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:37,660 INFO spawned: 'app_worker_00' with pid 115
+2022-08-22 03:35:38,692 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:38,693 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:39,696 INFO spawned: 'app_worker_00' with pid 116
+2022-08-22 03:35:40,730 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:40,730 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:41,733 INFO spawned: 'app_worker_00' with pid 117
+2022-08-22 03:35:42,766 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:42,766 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:43,770 INFO spawned: 'app_worker_00' with pid 118
+2022-08-22 03:35:44,804 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:44,804 INFO exited: app_worker_00 (exit status 1; not expected)
+2022-08-22 03:35:45,808 INFO spawned: 'app_worker_00' with pid 119
+2022-08-22 03:35:46,818 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 03:35:48,820 INFO reaped unknown pid 144 (exit status 0)
+2022-08-22 03:36:07,841 INFO reaped unknown pid 187 (exit status 0)
+2022-08-22 04:12:06,623 INFO reaped unknown pid 336 (exit status 0)
+2022-08-22 04:35:48,143 INFO exited: app_worker_00 (exit status 0; expected)
+2022-08-22 04:35:49,159 INFO spawned: 'app_worker_00' with pid 408
+2022-08-22 04:35:50,172 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 05:35:51,563 INFO exited: app_worker_00 (exit status 0; expected)
+2022-08-22 05:35:52,566 INFO spawned: 'app_worker_00' with pid 559
+2022-08-22 05:35:53,590 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-22 06:03:58,286 INFO reaped unknown pid 619 (exit status 0)
+2022-08-22 06:04:28,319 INFO reaped unknown pid 651 (exit status 0)
+2022-08-22 06:35:54,794 INFO exited: app_worker_00 (exit status 0; expected)
+2022-08-22 06:35:55,796 INFO spawned: 'app_worker_00' with pid 681
+2022-08-22 06:35:56,807 INFO success: app_worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
